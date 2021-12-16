@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.9632a0a7.chunk.css",
-    "main.js": "/static/js/main.a13d7de4.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.1019e2a8.js",
-    "static/js/2.a19f5d10.chunk.js": "/static/js/2.a19f5d10.chunk.js",
-    "static/js/3.79b3e241.chunk.js": "/static/js/3.79b3e241.chunk.js",
+    "main.css": "/static/css/main.3fa64cb2.chunk.css",
+    "main.js": "/static/js/main.dac302f2.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.9b2baa32.js",
+    "static/js/2.8ad40d9b.chunk.js": "/static/js/2.8ad40d9b.chunk.js",
+    "static/js/3.83ff71ce.chunk.js": "/static/js/3.83ff71ce.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.a19f5d10.chunk.js.LICENSE.txt": "/static/js/2.a19f5d10.chunk.js.LICENSE.txt",
+    "static/js/2.8ad40d9b.chunk.js.LICENSE.txt": "/static/js/2.8ad40d9b.chunk.js.LICENSE.txt",
     "static/media/ourbunka_logo.6f04b89f.svg": "/static/media/ourbunka_logo.6f04b89f.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1019e2a8.js",
-    "static/js/2.a19f5d10.chunk.js",
-    "static/css/main.9632a0a7.chunk.css",
-    "static/js/main.a13d7de4.chunk.js"
+    "static/js/runtime-main.9b2baa32.js",
+    "static/js/2.8ad40d9b.chunk.js",
+    "static/css/main.3fa64cb2.chunk.css",
+    "static/js/main.dac302f2.chunk.js"
   ]
 }
